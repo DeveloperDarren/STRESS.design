@@ -1,1 +1,49 @@
+@import url('https://fonts.googleapis.com/ccs?family=Calibri Light');
 
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-size: 16px;
+}
+.intro {
+  height: 100%;
+  width: 100%;
+  margin auto;
+  background: url(https://aesthetic-meme.neocities.org/mmmm%20sweet%20aesthetic.jpg) no-repeat 50% 50%;
+  display: table;
+  top: 0;
+  background-size: cover;
+}
+.intro .inner {
+  display: table-cell;
+  vertical-align; middle;
+  width: 100%;
+  max-width: none;
+}
+.content {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+.content h1 {
+  font-family: 'Calibri Light', sans-serif;
+  color: #F9F3F4;
+  text-shadow; 0px 0px 300px #000;
+  font-size 500%;
+}
+.btn {
+  border-radius: 9px;
+  font-family: 'Calibri Light', sans-serif;
+  color: #F9F3F4;
+  font-size: 135%;
+  padding: 10px 20px;
+  border: solid #F9F3F4 3px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.btn:hover {
+  color: #fff;
+  border: solid #fff 3px;
+}

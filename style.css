@@ -47,3 +47,9 @@ html, body {
   color: #fff;
   border: solid #fff 3px;
 }
+}
+
+#particles-js{
+    background-image: url('https://aesthetic-meme.neocities.org/mmmm%20sweet%20aesthetic.jpg');
+    height: 100vh;
+}

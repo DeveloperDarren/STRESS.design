@@ -32,6 +32,6 @@ h1{
 }
 
 #particles-js{
-    background: url('http://i.imgur.com/gIT2AXw.jpg');
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('https://i.ytimg.com/vi/lj4WbJoFYlE/maxresdefault.jpg');
     height: 100vh;
 }
